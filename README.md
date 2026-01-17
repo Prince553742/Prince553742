@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Gay<br>📚 Witty<br>🎯 Digilent<br>🎲 Hardworking</p>
+<p align="left">✨ Gay<br>📚 Witty<br>🎯 Diligent<br>🎲 Hardworking</p>
 
 ###
 
